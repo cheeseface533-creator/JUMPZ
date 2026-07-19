@@ -30,7 +30,9 @@ This project was made entirely on scratch so the only thing that you have to do 
 
 **RUNING IT OFFLINE?**
 
-to run it offline download the .sb3 file and open scratch desktop, click file, load form computer, then choose the JUMPZ project.
+To run it offline download the .sb3 file and open scratch desktop, click file, load form computer, then choose the JUMPZ project.
+
+To view projects code press see inside and take a look!
 
 NOTE: I WOULD HIGHLY RECOMOND TO JUST GO TO THE WEBSITE, IT'S FASTER!
 
