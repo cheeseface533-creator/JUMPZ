@@ -4,7 +4,7 @@ Old arcade style game based off of pong made in scratch
 
 <img width="400" height="302" alt="Recording 2026-07-19 152742" src="https://github.com/user-attachments/assets/99bf8008-c822-4816-9e48-f05b0d84e9a3" />
 
-**TRY IT HERE -----> https://scratch.mit.edu/projects/1362933951/ <----- TRY IT HERE**
+**TRY IT HERE -----> https://scratch.mit.edu/projects/1362933951/ <----- TRY IT HERE (THIS IS A FULL VERSION)**
 
 
 # FEATURES
@@ -26,7 +26,13 @@ Old arcade style game based off of pong made in scratch
 
 This project was made entirely on scratch so the only thing that you have to do is, press the link, hit the green flag, and enjoy!
 
-**TRY IT HERE -----> https://scratch.mit.edu/projects/1362933951/ <----- TRY IT HERE**
+**TRY IT HERE -----> https://scratch.mit.edu/projects/1362933951/ <----- TRY IT HERE (THIS IS A FULL VERSION)**
+
+**RUNING IT OFFLINE?**
+
+to run it offline download the .sb3 file and open scratch desktop, click file, load form computer, then choose the JUMPZ project.
+
+NOTE: I WOULD HIGHLY RECOMOND TO JUST GO TO THE WEBSITE, IT'S FASTER!
 
 # HOW DOES THIS WORK?
 
