@@ -31,24 +31,24 @@ This project was made entirely on scratch so the only thing that you have to do 
 # HOW DOES THIS WORK?
 
 
-**physics system:**
- The "ball movement" scripts work by haveing 2 veriables that I call xSPEED and ySPEED. When ever I call the ball movemet script the very first thing I do is move the ball by the amount of xSPEED and ySPEED and them I subtracte 1 from each of them to make smooth and life-like motion! Then I check to see if its touching the paddle, if it is I just incress the ySPEED to a positive number and ajust the xSPEED acordinly. The balls left right movment is random to incress dificulty!
+**Physics system:**
+ The "ball movement" scripts work by haveing 2 variables that I call xSPEED and ySPEED. Whenever I call the ball movemet script the very first thing I do is move the ball by the amount of xSPEED and ySPEED and then I subtract 1 from each of them to make smooth and life-like motion! Then, I check to see if its touching the paddle. If it is I just incress the ySPEED to a positive number and ajust the xSPEED accordingly. The balls left right movement is random to increase difficulty!
 
  **High score system:**
-  The highscore system works by once the game is over it checks to see if there score is higher then the previous high score them sets it to it. To store the high score I use a cloud veriable. 
-NOTE FOR TESTERS: If you dont have a scratch acount that has been verified you cant use cloud veriables. This might make it look like the High score system dosnt work. DONT WORRY, IT WORKS! here is a screen shot to prove it
+  The highscore system works by once the game is over it checks to see if their score is higher than the previous high score. It then sets it to the new high score. To store the high score I use a cloud veriable. 
+NOTE FOR TESTERS: If you dont have a scratch acount that has been verified you can't use cloud variables. This might make it look like the High score system doesn't work. DONT WORRY, IT WORKS! Here is a screen shot to prove it:
 
 <img width="710" height="537" alt="Screenshot 2026-07-19 160554" src="https://github.com/user-attachments/assets/51bbd7a3-7227-4de6-9b45-5a55410013ee" />
 
 **scoring system:**
- The scoreing system works off of 4 difirent things
+ The scoring system works off of 4 different things
 
 - Air Time
 - The number of times you bounce the ball on the paddle
 - The amount of coins you collect
 - And the difficulty of the coins you collected
 
-All of this is added up to make a complete scoreing.
+All of this is added up to make a complete scoring.
 Here is the script to calculate all of this!
 
 <img width="603" height="251" alt="Screenshot 2026-07-19 161335" src="https://github.com/user-attachments/assets/77a40cba-1397-40a6-89ce-493a9a99d748" />
@@ -60,8 +60,8 @@ Here is the script to calculate all of this!
  
  [moodmode-8-bit-arcade-mode-158814.mp3](https://github.com/user-attachments/files/30171447/moodmode-8-bit-arcade-mode-158814.mp3)
 
- And also buit in sounds from the scratch engine, Thank you!
+ And also built in sounds from the scratch engine, Thank you!
 
  **AI**
 
- AI was used for NO code generation on this project. The only time i used AI on this proejct was to troble shoot the problem i was haveing with the super jump system. NO CODE WAS GENERATED FOR THAT, only just telling me what i did wrong.
+ AI was used for NO code generation on this project. The only time I used AI on this project was to trouble shoot the problem I was having with the super jump system. NO CODE WAS GENERATED FOR THAT, only just telling me what I did wrong.
